@@ -1,4 +1,4 @@
-# Simple Rust Web Server
+# Simple Rust Web Server Template
 
 This is a basic web server written in Rust. The server listens for HTTP requests and serves HTML files based on the
 requested paths. It includes a feature to handle graceful shutdowns using Ctrl+C.
